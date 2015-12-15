@@ -1,1 +1,3 @@
 this is line 1 in mars.txt
+
+this is line 2 in mars.txt
